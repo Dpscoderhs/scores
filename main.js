@@ -53,7 +53,7 @@ function clear_click() {
 
 var sort_click = function() {
     //Add the sort() function to sort students by thier names
-    grades.sort();
+    grades_sort();
     update_scores();
 }
 
